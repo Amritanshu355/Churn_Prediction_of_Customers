@@ -7,7 +7,8 @@ A machine learning project to predict customer churn for a telecom provider. The
 ## Demo
 
 ![Dashboard Preview](preview2.png)
-![Dashboard Preview](preview3.png)
+
+![Dashboard Preview](preview.png)
 The output is a self-contained `churn_dashboard.html` with two interactive sections — an EDA overview and a model evaluation panel — built with Plotly.
 
 ---
